@@ -5,7 +5,7 @@
     "slug": "blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 629
+    "time": 619
   },
   {
     "name": "Deployandome",
@@ -13,7 +13,7 @@
     "slug": "deployandome",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1399
+    "time": 1250
   },
   {
     "name": "Pi.lastr.us",
@@ -21,7 +21,7 @@
     "slug": "pi-lastr-us",
     "status": "up",
     "uptime": "100.00%",
-    "time": 274
+    "time": 239
   },
   {
     "name": "Pil.as",
@@ -29,7 +29,7 @@
     "slug": "pil-as",
     "status": "up",
     "uptime": "100.00%",
-    "time": 546
+    "time": 535
   },
   {
     "name": "Agujero Del Mate",
@@ -37,6 +37,6 @@
     "slug": "agujero-del-mate",
     "status": "up",
     "uptime": "100.00%",
-    "time": 494
+    "time": 521
   }
 ]
