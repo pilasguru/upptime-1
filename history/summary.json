@@ -11,9 +11,9 @@
     "name": "Deployandome",
     "url": "https://deployando.me",
     "slug": "deployandome",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 988
+    "time": 879
   },
   {
     "name": "Pi.lastr.us",
@@ -27,16 +27,16 @@
     "name": "Pil.as",
     "url": "http://pil.as",
     "slug": "pil-as",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 436
+    "time": 387
   },
   {
     "name": "Agujero Del Mate",
     "url": "http://www.agujerodelmate.org",
     "slug": "agujero-del-mate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 405
+    "time": 360
   }
 ]
