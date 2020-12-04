@@ -19,7 +19,7 @@
     "name": "Deployandome",
     "url": "https://deployando.me",
     "slug": "deployandome",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -27,7 +27,7 @@
     "uptimeYear": "100.00%",
     "time": 1310,
     "timeDay": 936,
-    "timeWeek": 1468,
+    "timeWeek": 1534,
     "timeMonth": 1310,
     "timeYear": 1310
   },
@@ -51,7 +51,7 @@
     "name": "Pil.as",
     "url": "http://pil.as",
     "slug": "pil-as",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -59,7 +59,7 @@
     "uptimeYear": "100.00%",
     "time": 484,
     "timeDay": 563,
-    "timeWeek": 472,
+    "timeWeek": 454,
     "timeMonth": 484,
     "timeYear": 484
   },
@@ -67,7 +67,7 @@
     "name": "Agujero Del Mate",
     "url": "http://www.agujerodelmate.org",
     "slug": "agujero-del-mate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -75,7 +75,7 @@
     "uptimeYear": "100.00%",
     "time": 451,
     "timeDay": 548,
-    "timeWeek": 439,
+    "timeWeek": 442,
     "timeMonth": 451,
     "timeYear": 451
   }
