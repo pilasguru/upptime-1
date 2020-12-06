@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 635,
-    "timeDay": 679,
-    "timeWeek": 662,
-    "timeMonth": 635,
-    "timeYear": 635
+    "time": 631,
+    "timeDay": 578,
+    "timeWeek": 659,
+    "timeMonth": 631,
+    "timeYear": 631
   },
   {
     "name": "Deployandome",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1305,
-    "timeDay": 1265,
-    "timeWeek": 1400,
-    "timeMonth": 1305,
-    "timeYear": 1305
+    "time": 1285,
+    "timeDay": 937,
+    "timeWeek": 1286,
+    "timeMonth": 1285,
+    "timeYear": 1285
   },
   {
     "name": "Pi.lastr.us",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 282,
-    "timeDay": 134,
-    "timeWeek": 276,
-    "timeMonth": 282,
-    "timeYear": 282
+    "time": 277,
+    "timeDay": 203,
+    "timeWeek": 251,
+    "timeMonth": 277,
+    "timeYear": 277
   },
   {
     "name": "Pil.as",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 533,
-    "timeDay": 900,
-    "timeWeek": 547,
-    "timeMonth": 533,
-    "timeYear": 533
+    "time": 525,
+    "timeDay": 383,
+    "timeWeek": 560,
+    "timeMonth": 525,
+    "timeYear": 525
   },
   {
     "name": "Agujero Del Mate",
@@ -73,10 +73,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 464,
-    "timeDay": 564,
-    "timeWeek": 472,
-    "timeMonth": 464,
-    "timeYear": 464
+    "time": 466,
+    "timeDay": 508,
+    "timeWeek": 478,
+    "timeMonth": 466,
+    "timeYear": 466
   }
 ]
