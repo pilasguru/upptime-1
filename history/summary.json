@@ -2,6 +2,7 @@
   {
     "name": "Blog",
     "url": "https://pilas.guru",
+    "icon": "https://favicons.githubusercontent.com/pilas.guru",
     "slug": "blog",
     "status": "up",
     "uptime": "100.00%",
@@ -10,14 +11,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 631,
-    "timeDay": 578,
-    "timeWeek": 659,
+    "timeDay": 625,
+    "timeWeek": 642,
     "timeMonth": 631,
-    "timeYear": 631
+    "timeYear": 631,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Deployandome",
     "url": "https://deployando.me",
+    "icon": "https://favicons.githubusercontent.com/deployando.me",
     "slug": "deployandome",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1285,
-    "timeDay": 937,
-    "timeWeek": 1286,
-    "timeMonth": 1285,
-    "timeYear": 1285
+    "time": 1262,
+    "timeDay": 859,
+    "timeWeek": 1285,
+    "timeMonth": 1262,
+    "timeYear": 1262,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pi.lastr.us",
     "url": "https://pi.lastr.us",
+    "icon": "https://favicons.githubusercontent.com/pi.lastr.us",
     "slug": "pi-lastr-us",
     "status": "up",
     "uptime": "100.00%",
@@ -41,15 +46,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 203,
-    "timeWeek": 251,
-    "timeMonth": 277,
-    "timeYear": 277
+    "time": 283,
+    "timeDay": 370,
+    "timeWeek": 253,
+    "timeMonth": 283,
+    "timeYear": 283,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pil.as",
     "url": "http://pil.as",
+    "icon": "https://favicons.githubusercontent.com/pil.as",
     "slug": "pil-as",
     "status": "up",
     "uptime": "100.00%",
@@ -57,15 +64,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 525,
-    "timeDay": 383,
-    "timeWeek": 560,
-    "timeMonth": 525,
-    "timeYear": 525
+    "time": 511,
+    "timeDay": 261,
+    "timeWeek": 565,
+    "timeMonth": 511,
+    "timeYear": 511,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Agujero Del Mate",
     "url": "http://www.agujerodelmate.org",
+    "icon": "https://favicons.githubusercontent.com/www.agujerodelmate.org",
     "slug": "agujero-del-mate",
     "status": "up",
     "uptime": "100.00%",
@@ -73,10 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 466,
-    "timeDay": 508,
-    "timeWeek": 478,
-    "timeMonth": 466,
-    "timeYear": 466
+    "time": 462,
+    "timeDay": 385,
+    "timeWeek": 477,
+    "timeMonth": 462,
+    "timeYear": 462,
+    "dailyMinutesDown": {}
   }
 ]
