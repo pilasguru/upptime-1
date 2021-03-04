@@ -4,7 +4,7 @@
     "url": "https://pilas.guru",
     "icon": "https://favicons.githubusercontent.com/pilas.guru",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 651,
     "timeDay": 732,
     "timeWeek": 713,
-    "timeMonth": 659,
+    "timeMonth": 661,
     "timeYear": 651,
     "dailyMinutesDown": {}
   },
