@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1410,
     "timeDay": 868,
-    "timeWeek": 1640,
+    "timeWeek": 1530,
     "timeMonth": 1357,
     "timeYear": 1410,
     "dailyMinutesDown": {}
@@ -76,7 +76,7 @@
     "url": "http://www.agujerodelmate.org",
     "icon": "https://favicons.githubusercontent.com/www.agujerodelmate.org",
     "slug": "agujero-del-mate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 655,
     "timeDay": 422,
-    "timeWeek": 569,
+    "timeWeek": 466,
     "timeMonth": 502,
     "timeYear": 655,
     "dailyMinutesDown": {}
