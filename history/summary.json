@@ -31,7 +31,7 @@
     "time": 1397,
     "timeDay": 991,
     "timeWeek": 1117,
-    "timeMonth": 1313,
+    "timeMonth": 1332,
     "timeYear": 1397,
     "dailyMinutesDown": {}
   },
@@ -40,7 +40,7 @@
     "url": "https://pi.lastr.us",
     "icon": "https://favicons.githubusercontent.com/pi.lastr.us",
     "slug": "pi-lastr-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -85,7 +85,7 @@
     "time": 643,
     "timeDay": 388,
     "timeWeek": 410,
-    "timeMonth": 471,
+    "timeMonth": 469,
     "timeYear": 643,
     "dailyMinutesDown": {}
   }
