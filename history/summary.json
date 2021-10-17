@@ -4,7 +4,7 @@
     "url": "https://pilas.guru",
     "icon": "https://favicons.githubusercontent.com/pilas.guru",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,7 +31,7 @@
     "time": 1289,
     "timeDay": 1168,
     "timeWeek": 1141,
-    "timeMonth": 628,
+    "timeMonth": 633,
     "timeYear": 1289,
     "dailyMinutesDown": {}
   },
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 335,
     "timeDay": 328,
-    "timeWeek": 407,
+    "timeWeek": 421,
     "timeMonth": 373,
     "timeYear": 335,
     "dailyMinutesDown": {}
@@ -67,7 +67,7 @@
     "time": 401,
     "timeDay": 323,
     "timeWeek": 317,
-    "timeMonth": 317,
+    "timeMonth": 316,
     "timeYear": 401,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 730,
     "timeDay": 397,
     "timeWeek": 481,
-    "timeMonth": 915,
+    "timeMonth": 926,
     "timeYear": 730,
     "dailyMinutesDown": {}
   }
