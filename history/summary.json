@@ -31,7 +31,7 @@
     "time": 1236,
     "timeDay": 398,
     "timeWeek": 1104,
-    "timeMonth": 893,
+    "timeMonth": 907,
     "timeYear": 1241,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 373,
     "timeDay": 264,
     "timeWeek": 298,
-    "timeMonth": 323,
+    "timeMonth": 324,
     "timeYear": 348,
     "dailyMinutesDown": {}
   },
@@ -76,7 +76,7 @@
     "url": "http://www.agujerodelmate.org",
     "icon": "https://favicons.githubusercontent.com/www.agujerodelmate.org",
     "slug": "agujero-del-mate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -85,7 +85,7 @@
     "time": 676,
     "timeDay": 464,
     "timeWeek": 493,
-    "timeMonth": 508,
+    "timeMonth": 514,
     "timeYear": 725,
     "dailyMinutesDown": {}
   }
