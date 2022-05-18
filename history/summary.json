@@ -76,17 +76,17 @@
     "url": "http://www.agujerodelmate.org",
     "icon": "https://favicons.githubusercontent.com/www.agujerodelmate.org",
     "slug": "agujero-del-mate",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 716,
-    "timeDay": 288,
-    "timeWeek": 932,
-    "timeMonth": 840,
-    "timeYear": 671,
+    "time": 715,
+    "timeDay": 322,
+    "timeWeek": 896,
+    "timeMonth": 829,
+    "timeYear": 670,
     "dailyMinutesDown": {}
   }
 ]
