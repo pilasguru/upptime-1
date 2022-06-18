@@ -22,7 +22,7 @@
     "url": "https://deployando.me",
     "icon": "https://icons.duckduckgo.com/ip3/deployando.me.ico",
     "slug": "deployandome",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,7 +31,7 @@
     "time": 1188,
     "timeDay": 2565,
     "timeWeek": 1240,
-    "timeMonth": 994,
+    "timeMonth": 1019,
     "timeYear": 1088,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 713,
     "timeDay": 547,
     "timeWeek": 429,
-    "timeMonth": 458,
+    "timeMonth": 466,
     "timeYear": 668,
     "dailyMinutesDown": {}
   }
