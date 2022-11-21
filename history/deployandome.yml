@@ -1,7 +1,7 @@
 url: https://deployando.me
-status: down
-code: 500
-responseTime: 645
-lastUpdated: 2022-11-21T18:58:10.437Z
+status: up
+code: 200
+responseTime: 1045
+lastUpdated: 2022-11-21T20:29:36.257Z
 startTime: Tue Jan 05 2021 18:17:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
