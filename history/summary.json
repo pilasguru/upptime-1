@@ -14,7 +14,7 @@
     "timeDay": 860,
     "timeWeek": 749,
     "timeMonth": 722,
-    "timeYear": 945,
+    "timeYear": 946,
     "dailyMinutesDown": {}
   },
   {
@@ -22,7 +22,7 @@
     "url": "https://deployando.me",
     "icon": "https://icons.duckduckgo.com/ip3/deployando.me.ico",
     "slug": "deployandome",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
