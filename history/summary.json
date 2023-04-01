@@ -22,17 +22,17 @@
     "url": "https://deployando.me",
     "icon": "https://icons.duckduckgo.com/ip3/deployando.me.ico",
     "slug": "deployandome",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1347,
+    "time": 1348,
     "timeDay": 1174,
     "timeWeek": 1319,
     "timeMonth": 1249,
-    "timeYear": 1459,
+    "timeYear": 1427,
     "dailyMinutesDown": {}
   },
   {
@@ -76,7 +76,7 @@
     "url": "http://www.agujerodelmate.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.agujerodelmate.org.ico",
     "slug": "agujero-del-mate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -86,7 +86,7 @@
     "timeDay": 386,
     "timeWeek": 371,
     "timeMonth": 530,
-    "timeYear": 564,
+    "timeYear": 556,
     "dailyMinutesDown": {}
   }
 ]
