@@ -76,17 +76,17 @@
     "url": "http://www.agujerodelmate.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.agujerodelmate.org.ico",
     "slug": "agujero-del-mate",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 566,
-    "timeDay": 386,
-    "timeWeek": 371,
-    "timeMonth": 530,
-    "timeYear": 556,
+    "time": 576,
+    "timeDay": 3380,
+    "timeWeek": 1229,
+    "timeMonth": 707,
+    "timeYear": 570,
     "dailyMinutesDown": {}
   }
 ]
